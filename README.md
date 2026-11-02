@@ -112,7 +112,7 @@ dve -full64
 Other option
 dve -full64 &
 A DVE environment will open.
-DVE Waveform Verification
+## DVE Waveform Verification
 In DVE:
 •	Open the testbench hierarchy.
 •	Locate the signals:
